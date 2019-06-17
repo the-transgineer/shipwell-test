@@ -1,0 +1,25 @@
+.addressInput {
+    width: 100%;
+}
+
+.addressInput input {
+    width: 90%;
+    height: 30px;
+}
+
+.suggestion-item {
+    height: 30px;
+    font-size: 15px;
+}
+
+.suggestion-item--active {
+    width: 90%;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin: auto;
+}
+
+.suggestion-item--active span {
+    margin-top: 30px;
+}

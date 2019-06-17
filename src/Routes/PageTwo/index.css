@@ -1,0 +1,13 @@
+.pageTwo {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu {
+    background-color: #606060;
+    width: 25%;
+    height: 100vh;
+    position: absolute;
+    right: 0;
+    color: white;
+}
